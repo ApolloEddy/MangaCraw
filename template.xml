@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MangaDetail>
+	<Name>String</Name>
+	<Author>String</Author>
+	<Status>String</Status>
+	<Cataloge>
+		<Chapter>
+			<Title>String</Title>
+			<Path>String</Path>
+			<Path>String</Path>
+		</Chapter>
+		<Chapter>
+			<Title>String</Title>
+			<Path>String</Path>
+			<Path>String</Path>
+		</Chapter>
+	</Cataloge>
+</MangaDetail>
